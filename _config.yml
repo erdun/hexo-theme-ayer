@@ -162,11 +162,11 @@ busuanzi:
 
 # 友盟cnzz统计(url填js代码src链接)
 cnzz:
-  enable: true
-  url: https://s9.cnzz.com/z_stat.php?id=1278069914&web_id=1278069914
+  enable: false
+  url: ""
 
 # Google Analytics
-google_analytics: ""
+google_analytics: "UA-91055563-1"
 # 百度统计
 baidu_analytics: ""
 
@@ -188,5 +188,5 @@ pageFooter: true
 #ICP备案信息尾部显示
 icp:
   enable: false
-  url: "http://www.beian.miit.gov.cn/" # 备案链接
-  text: "浙ICP备88888888" # 备案信息
+  url: "" # 备案链接
+  text: "" # 备案信息
